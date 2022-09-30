@@ -1,12 +1,22 @@
-<!-- ---
+---
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses I have TAed over years
 nav: true
 nav_order: 2
 ---
+## Purdue University
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+#### ECE 20007 [Ben Manning]
+* Intructor for two sections with total of 8 students
+* Promote fundamental concept learning with interactive lectures and hands on practice
+* Lead a group of 8 undergrad TAs for timely grading and timely evaluations and feedback to the students.
 
-Organize your courses by years, topics, or universities, however you like! -->
+## IIT Hyderabad
+#### MA 2140 Statistics [Dr. Sameen Naqvi]
+#### MA 2110 Probability [Dr. CS Sastry]
+#### MA 1010 Vector Calculus [Dr. D Sukumar]
+#### EE 5137 Intro VLSI design [Dr. Naresh Emani]
+#### CS 2233 Data Structures [Dr. Maunendra Sarkar]
+#### EE 1330 Digital Signal Processing [Dr. GVV Sharma]

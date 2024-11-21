@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
+title: Deep Learning for Raman Spectra Analysis
+# description: a project that redirects to another website
+img: assets/img/raman_dl.jpeg
 redirect: https://unsplash.com
-importance: 3
+importance: 2
 category: work
 ---
 

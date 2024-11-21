@@ -1,6 +1,6 @@
 ---
 layout: none
-permalink: /resume/
+permalink: /Resume/
 title: CV
 description: Curriculum Vitae
 nav: true

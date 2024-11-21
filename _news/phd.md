@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2021-01-19 00:00:00-0400
+date: 2024-10-10 00:00:00-0400
 inline: true
 ---
 
-Started my PhD in ECE at Purdue! Will be GTA for ECE20007.
+Chair for ECE Graduate Symposium 2024. 
+Moderated panel discussion on ["ECE in the Age of AI"](https://x.com/akshitakamsali/status/1844851722377634000)

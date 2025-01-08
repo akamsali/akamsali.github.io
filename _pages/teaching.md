@@ -8,7 +8,8 @@ nav_order: 2
 ---
 ## Purdue University
 
-* [ECE 60146](https://engineering.purdue.edu/DeepLearn/) by [Dr. Avi Kak](https://engineering.purdue.edu/kak/) and [Dr. Charlie Bouman](https://engineering.purdue.edu/~bouman/), Spring 2024, 25. 
+* [ECE 60146](https://engineering.purdue.edu/DeepLearn/) by [Dr. Avi Kak](https://engineering.purdue.edu/kak/) and [Dr. Charlie Bouman](https://engineering.purdue.edu/~bouman/), Spring 2024, 2025. 
+  * Current students please use Piazza for any questions.
   * Delivered lecture on Python OOP and PyTorch usage.
   * Created hands-on assignments for latest DL applications. Link [here](https://engineering.purdue.edu/DeepLearn/2_best_solutions/2024/index.php#)
 * [ECE 404](https://engineering.purdue.edu/ece404/) by [Dr. Avi Kak](https://engineering.purdue.edu/kak/), Spring 2023

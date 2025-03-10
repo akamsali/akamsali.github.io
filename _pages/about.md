@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: profpic.jpg
+  image: profile_photo.jpg
   address: >
     <p>185, BHEE</p>
     <p>465 Northwestern Ave</p>

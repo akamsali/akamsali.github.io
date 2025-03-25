@@ -14,4 +14,4 @@ Our approach involves multiple entity extraction techniques, from classical CRF 
 
 Future efforts aim to refine graph accuracy through fine-tuning, hybrid extraction techniques, and advanced graph construction methods. This work addresses critical challenges in knowledge graph generation, paving the way for better text analysis tools in domains like fraud detection, legal analysis, and more.  
 
-NeurIPS 2024 Poster can be found here: [Poster](../assets/pdf/WiMLPosterAK.pdf)
+NeurIPS 2024 Poster can be found here: [Poster](../../assets/pdf/WiMLPosterAK.pdf)

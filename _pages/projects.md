@@ -6,7 +6,7 @@ description: Selected collection of my projects.
 nav: true
 nav_order: 1
 display_categories: [work, fun]
-horizontal: false
+horizontal: true
 ---
 <!-- pages/projects.md -->
 <div class="projects">

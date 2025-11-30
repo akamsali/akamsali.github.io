@@ -1,9 +1,9 @@
 ---
 layout: none
 permalink: /Resume/
-title: CV
+title: Resume
 description: Curriculum Vitae
 nav: true
 ---
 
-<object data="../assets/pdf/Akshita_Kamsali_CV.pdf" style="width:100%; height:100%" type='application/pdf'></object>
+<object data="../assets/pdf/Kamsali_Resume.pdf" style="width:100%; height:100%" type='application/pdf'></object>

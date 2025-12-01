@@ -16,6 +16,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+*Actively seeking Internship opportunities for Summer/Fall 2026!*
 
 I am a PhD student in Electrical and Computer Engineering at Purdue University and a member of the [Robot Vision Lab](https://engineering.purdue.edu/RVL/), advised by [Dr. Avi Kak](https://engineering.purdue.edu/kak/). My research is in deep learning, focusing on interpretabilty solutions for deep learning models. I have had the opportunity to work with various industry collaborators for real-life problem solving throughout my PhD. Proficient in Python, PyTorch, and Deep Learning, I also bring strong skills in scientific communication, public speaking, and presentations, enabling me to effectively bridge research and impactful real-world applications.
 
